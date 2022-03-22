@@ -158,3 +158,10 @@ func main(){
 	fmt.Println("newCars:", newCars)
 
 }
+
+// git init 
+// git add *
+// git status
+// git commit -m "message"
+// git remote add origin "url"
+// git push origin master
